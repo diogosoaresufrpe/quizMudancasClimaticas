@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364126346012",
+    "firebase_url": "https://exemplo-500d3.firebaseio.com",
+    "project_id": "exemplo-500d3",
+    "storage_bucket": "exemplo-500d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364126346012:android:2aef98ece0337734aa78d9",
+        "android_client_info": {
+          "package_name": "fpa.ufrpe.br.exemplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364126346012-eb0bjbcjjvt50ou18kd01vdbs65as5r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZs89eOaOCvgWaRNkZRdcQCZHZBDkaA8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364126346012-eb0bjbcjjvt50ou18kd01vdbs65as5r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
